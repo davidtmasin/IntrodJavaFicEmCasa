@@ -7,8 +7,9 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 import java.util.Scanner;
-public class Main
-{
+
+public class PlayingToStrings{
+
 	public static void main(String[] args) {
 	    String a = "Xablau";
 	    String b;
