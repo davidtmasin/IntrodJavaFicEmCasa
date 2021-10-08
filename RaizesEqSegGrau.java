@@ -7,6 +7,7 @@ segundo grau e calcule suas ra√≠zes.
 * x¬≤ - 5x + 6 = 0
 *
 * */
+package IntrodJavaFicEmCasa;
 
 import java.util.Scanner;
 
@@ -33,11 +34,11 @@ public class RaizesEqSegGrau {
 
             x1 = (- b + Math.sqrt(delta))/2*a;
             x2 = (- b - Math.sqrt(delta))/2*a;
-            System.out.println("As ra√≠zes da equa√ß√£o s√£o: x' = "+x1+" e x'' = "+x2);
+            System.out.println("As raÌzes da equaÁ„o s„o: x' = "+x1+" e x'' = "+x2);
 
         } else{
 
-            System.out.println("Esta equa√ß√£o n√£o ter√° ra√≠zes pois, o valor de delta √© negativo.");
+            System.out.println("Esta equaÁ„o n„o ter· raÌzes pois, o valor de delta È negativo.");
             System.out.println("Logo, x' e x'' n√£o existem.");
         }
 

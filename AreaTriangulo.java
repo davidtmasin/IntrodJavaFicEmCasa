@@ -1,11 +1,7 @@
+package IntrodJavaFicEmCasa;
+
 import java.util.Scanner;
 
-/*
-* 2. Faça um programa que calcule a área de um
-triângulo, considerando a fórmula:
-area=(base*altura)/2;
-*
-* */
 public class AreaTriangulo {
     public static void main(String[] args){
 

@@ -1,3 +1,5 @@
+package IntrodJavaFicEmCasa;
+
 import java.util.Scanner;
 
 public class CelsiusToFahrenheit {

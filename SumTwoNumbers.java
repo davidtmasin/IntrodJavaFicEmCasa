@@ -1,3 +1,4 @@
+package IntrodJavaFicEmCasa;
 import java.util.Scanner;
 public class SumTwoNumbers {
 
@@ -6,10 +7,10 @@ public class SumTwoNumbers {
 
         Scanner parcel = new Scanner (System.in);
 
-        System.out.println ("Digite o primeiro nÃºmero: ");
+        System.out.println ("Digite o primeiro número: ");
         number_1 = parcel.nextInt();
 
-        System.out.println ("Digite o segundo nÃºmero: ");
+        System.out.println ("Digite o segundo número: ");
         number_2 = parcel.nextInt();
 
         result = number_1 + number_2;
