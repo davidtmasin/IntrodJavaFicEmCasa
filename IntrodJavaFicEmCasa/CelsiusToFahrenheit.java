@@ -13,7 +13,7 @@ public class CelsiusToFahrenheit {
 
         valueFahrenheit = 1.8f * valueCelsius + 32;
 
-        System.out.println("A temperatura lida em Celsius equiva a " +
-                valueFahrenheit + "Â°F");
+        System.out.print("A temperatura lida em Celsius equiva a " );
+           System.out.printf("%.2f ºF",valueFahrenheit);
     }
 }
